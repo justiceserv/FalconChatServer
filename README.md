@@ -1,6 +1,6 @@
 # Falcon.Chat Server
 
-Client Respository URL: (https://github.com/justiceserv/FalconChatClient)[https://github.com/justiceserv/FalconChatClient]
+Client Respository URL: https://github.com/justiceserv/FalconChatClient
 
 ### Developed by @SaintRobotal @justiceserv
 
